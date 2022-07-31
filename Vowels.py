@@ -1,3 +1,5 @@
+#Program to print Vowels from the given word!
+
 vowels = ['a', 'e','i','0','u']
 word = 'Milliways'
 
