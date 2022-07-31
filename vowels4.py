@@ -1,3 +1,5 @@
+#Program to print vowels and its count by using setdefault method.
+
 vowels = ['a','e','i','o','u']
 word = input("Provide a word to search for Vowels: ")
 
